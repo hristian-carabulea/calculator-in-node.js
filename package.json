@@ -13,9 +13,9 @@
   "author": "Hristian Carabulea",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.1",
     "express": "^4.17.2"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hristian-carabulea/calculator-in-node.js.git"
