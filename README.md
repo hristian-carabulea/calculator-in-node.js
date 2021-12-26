@@ -7,3 +7,6 @@
 ###   1a.	npm install -g nodemon  ## this did not work for me. I had to use command below.
 ###   1b.	sudo npm install -g nodemon ## this worked for me.
 ### use four operators(+ - * /) and error message otherwise
+###
+### run program in command line: nodemon calculator.js
+###
