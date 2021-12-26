@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristian-carabulea/calculator-in-node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hristian-carabulea/calculator-in-node.js/issues"
+  },
+  "homepage": "https://github.com/hristian-carabulea/calculator-in-node.js#readme"
 }
